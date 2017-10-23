@@ -1,3 +1,26 @@
-theme: jekyll-theme-dinky
-title: [Jeronimo Mora]
-description: [This is my personal website. Feel free to check out my projects and resume!]
+title: My Resume
+url: 'http://jeronimomora.com'
+baseurl: '/resume' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Jeronimo Mora
+tagline: UC Berkeley Mechanical Engineering Student
+pic: jeronimo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: jeronimo@berkeley.edu
+phone: 510 559 0113
+website: jeronimomora.com #do not add http://
+linkedin: jeronimomora
+github: jeronimomora
+twitter: '@webjeda'
+
